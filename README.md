@@ -1,2 +1,2 @@
-# API Documentation
+# CLI Documentation
 
