@@ -7,3 +7,4 @@ Provider API Endpoint list:
 * Endpoint1
 * Endpoint2
 * Endpoint3
+* EndpointXYZ
