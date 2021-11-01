@@ -8,3 +8,5 @@ Provider API Endpoint List
 * Endpoint2
 * Endpoint3
 
+For additional information visit akash.network
+
