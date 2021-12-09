@@ -1,2 +1,2 @@
-# 5 Minutes to Deploy
+# 5 minutes to deploy
 

@@ -1,2 +1,2 @@
-# Release Notes (Current version)
+# Release notes (Current version)
 
